@@ -1,0 +1,20 @@
+@media (min-width: 5px){
+.form-inline .form-control {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+    }}
+body{
+	background-color:  #516065;
+	color: black;
+		
+}
+h5{
+	font-weight: 600;
+}
+h2{
+	color: white;
+}
+.bg-light {
+    background-color: #929da1!important;
+}
