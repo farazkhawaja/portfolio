@@ -18,3 +18,10 @@ h2{
 .bg-light {
     background-color: #929da1!important;
 }
+
+@media (max-width: 992px){
+
+.lol{
+	width:3em;
+}
+}
