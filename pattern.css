@@ -4,6 +4,22 @@
     width: auto;
     vertical-align: middle;
     }}
+@media (min-width: 1200px){
+	.midpic{
+		height:13.3em;
+	}
+}
+@media (max-width: 1199px){
+	.midpic{
+		height:11.2em;
+	}
+}
+@media (min-width: 200px) and (max-width: 992px){
+	.midpic{
+		height:8.4em;
+	}
+}
+
 body{
 	background-color:  #516065;
 	color: black;
