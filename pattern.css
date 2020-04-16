@@ -2,10 +2,19 @@
 .form-inline .form-control {
     display: inline-block;
     width: auto;
-    vertical-align: middle;
+    vertical-align: left;
     }}
+@media (max-width: 992px){
+
+.homebtnborder{
+	width:3em;
+}
+}
 @media (min-width: 1200px){
 	.midpic{
+		height:13.3em;
+	}
+	.rightpic{
 		height:13.3em;
 	}
 }
@@ -13,9 +22,16 @@
 	.midpic{
 		height:11.2em;
 	}
+	.rightpic{
+		height:11.2em;
+	}
+	
 }
-@media (min-width: 200px) and (max-width: 992px){
+@media (min-width: 767px) and (max-width: 992px){
 	.midpic{
+		height:8.4em;
+	}
+	.rightpic{
 		height:8.4em;
 	}
 }
@@ -33,11 +49,4 @@ h2{
 }
 .bg-light {
     background-color: #929da1!important;
-}
-
-@media (max-width: 992px){
-
-.homebtnborder{
-	width:3em;
-}
 }
