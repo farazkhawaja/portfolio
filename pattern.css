@@ -60,3 +60,10 @@ h2{
 .bg-light {
     background-color: #929da1!important;
 }
+#intensity{
+	font-weight:100
+}
+#intensity:hover{
+	color:white;
+	font-weight: 600;
+}
