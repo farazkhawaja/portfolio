@@ -1,2 +1,2 @@
 # Portfolio
-to visit site : https://farazkhawaja.github.io/cv3/
+to visit site : https://farazkhawaja.github.io/portfolio/
